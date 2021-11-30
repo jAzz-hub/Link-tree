@@ -10,9 +10,10 @@
  <li>CSS.</li><br />
  <li>HTML.</li><br />
  <li>Typewriter(Módulo do Javascript).</li><br />
-</ul>
+  </ul>
+
 # Fontes de Conhecimento
-As referências que  usei para construir boa parte do projeto estão abaixo:<br />
+  As referências que  usei para construir boa parte do projeto estão abaixo:<br />
     <a href = 'https://www.w3schools.com/html/default.asp'>Aprendizado em HTML - w3Schoools</a><br />
     <a href = 'https://www.w3schools.com/html/default.asp'>Aprendizado em CSS - w3Schoools</a><br />
     <a href = 'https://www.w3schools.com/html/default.asp'>Aprendizado em Javascript - w3Schoools</a><br />
