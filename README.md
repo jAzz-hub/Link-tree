@@ -12,8 +12,8 @@
 
 # Fontes de Conhecimento
 As referências que  usei para construir boa parte do projeto estão abaixo:<br />
-    ![Aprendizado em HTML - w3Schoools] (https://www.w3schools.com/html/default.asp)<br />
-    ![Aprendizado em CSS - w3Schoools] (https://www.w3schools.com/css/default.asp)<br />
-    ![Aprendizado em Javascript - w3Schoools] (https://www.w3schools.com/js/default.asp)<br />
-    ![Módulo que simula animação de digitação - Typewriter] (https://safi.me.uk/typewriterjs/)<br />
-    ![Instalação do módulo - NPM] (https://www.npmjs.com/package/typewriter-effect)<br />
+    <a href = 'https://www.w3schools.com/html/default.asp'>Aprendizado em HTML - w3Schoools</a><br />
+    <a href = 'https://www.w3schools.com/html/default.asp'>Aprendizado em CSS - w3Schoools</a><br />
+    <a href = 'https://www.w3schools.com/html/default.asp'>Aprendizado em Javascript - w3Schoools</a><br />
+    <a href = 'https://www.w3schools.com/html/default.asp'>Módulo que simula animação de digitação - Typewriter</a><br />
+      <a href = 'https://www.w3schools.com/html/default.asp'>Instalação do módulo via npm</a><br />
