@@ -4,7 +4,7 @@
 # Observações
   O projeto não se encontra completo, ainda implementarei melhorias na documentação do código, acessibilidade do site e responsividade também. Estou aberto à issues que proponham mudanças e melhorias :D.
 
-# Tecnologias:
+# Tecnologias
  <ul>
  <li>Javascript.</li><br />
  <li>CSS.</li><br />
