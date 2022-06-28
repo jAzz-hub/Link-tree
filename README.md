@@ -1,5 +1,5 @@
 # Link-tree
-  Este é um pequeno projeto que fiz inspirado em outros desenvolvedores para centralizar meus perfis da internet.
+  Este é um pequeno projeto que fiz inspirado em outros desenvolvedores para centralizar meus perfis.
 
 # Observações
   O projeto não se encontra completo, ainda implementarei melhorias na documentação do código, acessibilidade do site e responsividade também. Estou aberto à issues que proponham mudanças e melhorias :D.
